@@ -6,9 +6,9 @@
 
 This is a simple React PWA that was created with the purpose to practice creating of PWA
 
-![Weather App - PWA](/images/pwa1.png)
-![Weather App - PWA](/images/pwa2.png)
-![Weather App - PWA](/images/pwa3.png)
+![Weather App - PWA](/public/images/pwa1.png)
+![Weather App - PWA](/public/images/pwa2.png)
+![Weather App - PWA](/public/images/pwa3.png)
 
 ### Some Facts about PWA
 
